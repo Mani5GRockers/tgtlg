@@ -1,4 +1,15 @@
-  # Telegram Torrent Leecher
+  ![MAXX LEECH V2](https://telegra.ph/file/af8f0596124714a17e4e2.png)
+
+👉 [Orginal Repository](https://github.com/gautamajay52/TorrentLeech-Gdrive)
+
+![Maxx](https://telegra.ph/file/d18fa7fa33f26f733adb9.png)
+
+#<b>Don't Kill Heroku please ☹️</b>
+
+[![MAXX LEECH](https://telegra.ph/file/29d788a656dd517eafd0a.png)](https://telegram.dog/MaxxBots)
+
+
+# Telegram Torrent Leecher
   
   A Telegram Torrent (and youtube-dl) Leecher based on [Pyrogram](https://github.com/pyrogram/pyrogram)
   ---
